@@ -1,4 +1,4 @@
-//cat;HOW TO PROGRAM STRUCTURES
+//cat;array program
 
 
 
